@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Optiki</string>
+
+    <string name="main_subtitle">Welcome to Optiki.</string>
+    <string name="main_description">Here you can register as a approved driver or login to use your accounts.</string>
+
+    <string name="register_subtitle">Who are driving for?</string>
+    <string name="register_description">Choose the company you are driving for, if you aren\'t approved to drive please register to drive.</string>
+
+    <string name="button_register_to_drive">Register to Drive</string>
+    <string name="button_access_your_account">Access your Account</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_ok">Ok</string>
+
+    <string name="message_not_implemented">This feature is not available yet</string>
+    <string name="message_thanks_for_registering">Thanks for registering</string>
+
+    <string name="title_alert">Alert</string>
+</resources>
